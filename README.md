@@ -11,6 +11,7 @@
 ##### StringShuffle
 ##### PdodbHandler
 ##### Socket
+##### AutothorizedIp
 ##### ContatForm
  
 ## Licence

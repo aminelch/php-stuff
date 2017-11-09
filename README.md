@@ -3,14 +3,17 @@
 ![php logo](logo-php.jpg "php logo")
 
     copyright © Amine L'ch 2017
+ [aminelch.github.io](aminelch.github.io) 
 
 ##Content
 
- 1. RandomizeStr functions
- 2. Contact me Form 
- 3. Socket demo 
+##### RandomizeStr functions
+##### StringShuffle
+##### PdodbHandler
+##### Socket
+##### ContatForm
  
- ###Licence
+## Licence
  
 
      Apache License Version 2.0, January 2004 

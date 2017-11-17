@@ -15,6 +15,8 @@
 ##### Socket
 ##### AutothorizedIp
 ##### ContatForm
+##### UserInfo
+##### CSRF module
  
 ## Licence
  
